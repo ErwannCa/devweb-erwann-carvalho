@@ -58,7 +58,6 @@ Voyager permet de découvrir de nouvelles cultures, d'élargir ses horizons et d
 
 - HTML5
 - CSS3
-- JavaScript
 - GitHub Pages pour l'hébergement
 
 ## Auteurs
