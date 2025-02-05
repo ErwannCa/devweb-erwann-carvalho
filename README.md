@@ -46,7 +46,7 @@ Le site est organisé en plusieurs sections, chacune dédiée à un pays :
 Voyager permet de découvrir de nouvelles cultures, d'élargir ses horizons et d'apprendre sur soi-même. C'est une expérience enrichissante qui favorise l'ouverture d'esprit, la curiosité et l'adaptabilité. Chaque voyage crée des souvenirs inoubliables et contribue au développement personnel.
 
 
-## Technologies utilisées
+## Méthode utilisées
 
 - HTML5
 - CSS3
