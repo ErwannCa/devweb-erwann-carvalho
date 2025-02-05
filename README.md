@@ -10,7 +10,6 @@ Ce site présente plusieurs pays en abordant leur histoire, les activités à y 
 
 - **index.html** : Page principale du site.
 - **styles/** : Contient les fichiers CSS.
-- **scripts/** : Contient les fichiers JavaScript.
 - **assets/** : Contient les images et autres ressources.
 
 ## Contenu du site
